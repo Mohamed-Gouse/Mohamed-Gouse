@@ -188,76 +188,25 @@ Repositories: [Backend](https://github.com/Mohamed-Gouse/chat_app_back) · [Fron
 
 ### Other repositories
 
-I also maintain smaller applications, prototypes and experiments:
+I also maintain smaller applications, earlier product iterations, learning projects and technical experiments:
 
-- [JB Computers](https://github.com/Mohamed-Gouse/jbcomputers) — e-commerce project.
-- [Home Crown Real Estate](https://github.com/Mohamed-Gouse/home-crown-real-estate) — React-based property and off-plan website.
-- [Northern Crest Marketing](https://github.com/Mohamed-Gouse/Northern-Crest-marketing) — marketing agency website.
-- [Anomaly Detection](https://github.com/Mohamed-Gouse/Anolagy-detection) — data-stream anomaly detection experiments using ARIMA and Isolation Forest.
-- [Online Admission System](https://github.com/Mohamed-Gouse/Online-admission-system) — admission-system project.
-- [Authentication System](https://github.com/Mohamed-Gouse/Authentication-system) — authentication project.
-- [BMW Clone](https://github.com/Mohamed-Gouse/bmw-clone) · [Teachics Clone](https://github.com/Mohamed-Gouse/Teachics-clone) · [Musixmatch](https://github.com/Mohamed-Gouse/Musixmatch) — frontend and learning projects.
-- [Emaar](https://github.com/Mohamed-Gouse/Emaar) · [Studio Pashmita](https://github.com/Mohamed-Gouse/studio-pashmita) · [Pashmita](https://github.com/Mohamed-Gouse/Pashmita) — additional website/content projects.
-
----
-
-## Technology Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express&theme=dark" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,bootstrap,tailwind&theme=dark" />
-
-### Databases & Messaging
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq&theme=dark" />
-
-### Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,git,github,vscode,figma&theme=dark" />
-
-</div>
-
-## Integrations & Platforms
-
-**Real Estate & CRM:** Property Finder, Bayut XML feeds, Dubizzle, REM/Remapp, Zoho CRM, Zoho Bigin, Zoho Sheets.
-
-**Communication & Marketing:** WhatsApp Business API, Gallabox, WATI, Twilio, Brevo.
-
-**Other APIs & Services:** Stripe, Google Maps / Places, Nutritionix, Apify, OpenAI API.
-
-## Engineering Toolkit
-
-- **Backend architecture:** REST APIs, authentication, permissions, background jobs and WebSockets.
-- **Data:** relational databases, document databases, data modelling, Excel automation and XML processing.
-- **Frontend:** component-based applications, state management, responsive interfaces and form validation.
-- **Delivery:** Linux servers, Nginx reverse proxy, cloud hosting, environment configuration and SSL.
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Mohamed-Gouse">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gouse&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0B1724&title_color=22D3EE&text_color=D6E3EA&icon_color=2DD4BF" />
-</a>
-<a href="https://github.com/Mohamed-Gouse">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gouse&layout=compact&langs_count=8&hide_border=true&bg_color=0B1724&title_color=22D3EE&text_color=D6E3EA" />
-</a>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Mohamed-Gouse&theme=transparent&hide_border=true&background=0B1724&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=D6E3EA&dates=94A3B8" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Gouse&bg_color=0B1724&color=D6E3EA&line=2DD4BF&point=22D3EE&area=true&hide_border=true" />
-
-</div>
-
+- [JB Computers](https://github.com/Mohamed-Gouse/jbcomputers) — Django e-commerce application with product, cart, order, administration and authentication modules; its dependencies include PayPal integration.
+- [Online Admission System](https://github.com/Mohamed-Gouse/Online-admission-system) — Flask-based course and student admission management application with admin/student workflows.
+- [Authentication System](https://github.com/Mohamed-Gouse/Authentication-system) — Django REST Framework authentication API using JWT.
+- [Home Crown Real Estate](https://github.com/Mohamed-Gouse/home-crown-real-estate) — React + TypeScript property and off-plan website.
+- [Northern Crest Marketing](https://github.com/Mohamed-Gouse/Northern-Crest-marketing) — React marketing website for a real-estate performance marketing agency.
+- [WOW Properties legacy frontend](https://github.com/Mohamed-Gouse/wow_prop) — React + Vite real-estate website interface.
+- [WOW Properties legacy backend](https://github.com/Mohamed-Gouse/wow_properties_backend) — Django REST Framework API with PostGIS/GIS-related functionality and property/lead modules.
+- [WOW Properties CMS](https://github.com/Mohamed-Gouse/wow-back) — Strapi-based content-management backend.
+- [WOW Properties older frontend](https://github.com/Mohamed-Gouse/wow-front) — React + Vite frontend repository.
+- [Anomaly Detection](https://github.com/Mohamed-Gouse/Anolagy-detection) — Data-stream anomaly detection experiments using ARIMA and Isolation Forest.
+- [Regression & Statistical Analysis](https://github.com/Mohamed-Gouse/regression) — Statistical and chi-square analysis scripts and supporting datasets.
+- [Developer Portfolio](https://github.com/Mohamed-Gouse/mohamedgouse) — Earlier personal portfolio website.
+- [Emaar](https://github.com/Mohamed-Gouse/Emaar) · [Studio Pashmita](https://github.com/Mohamed-Gouse/studio-pashmita) · [Pashmita](https://github.com/Mohamed-Gouse/Pashmita) · [Najwa-Jabin](https://github.com/Mohamed-Gouse/Najwa-Jabin) — Additional website and content projects.
+- [BMW Clone](https://github.com/Mohamed-Gouse/bmw-clone) · [Teachics Clone](https://github.com/Mohamed-Gouse/Teachics-clone) · [Musixmatch](https://github.com/Mohamed-Gouse/Musixmatch) — HTML/CSS/JavaScript frontend recreation and practice projects.
+- [Documentation site](https://github.com/Mohamed-Gouse/docs) — Documentation site and content.
+- [Unit Finder](https://github.com/Mohamed-Gouse/unit_finder) · [Inventory Processor](https://github.com/Mohamed-Gouse/inventory-processor) — Python/Django utilities for spreadsheet processing and property data workflows.
+- [Chatting Application](https://github.com/Mohamed-Gouse/Chatting-Application) — Separate frontend/backend chat application project.
 ---
 
 <div align="center">
