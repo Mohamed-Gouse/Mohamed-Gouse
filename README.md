@@ -1,86 +1,277 @@
-<h1 align="center">👋 Hi, I'm Mohamed Gouse!</h1>
+<div align="center">
 
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071D2B,45:0F766E,100:22D3EE&height=235&section=header&text=Mohamed%20Gouse&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Building+real-world+software+products;Python+%7C+Django+%7C+React+%7C+Next.js;Backend+systems+%26+full-stack+applications;PropTech+%7C+CRM+%7C+Business+Automation" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/mohamedgouse/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohamedgouse.pk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Mohamed-Gouse"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Gouse&style=flat-square&color=0D9488&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## About
+
+I'm **Mohamed Gouse**, a Software Engineer focused on building useful, maintainable software — from backend platforms and APIs to complete web applications.
+
+My core engineering work centres on **Python, Django, Django REST Framework, JavaScript and React**. I also work across the MERN ecosystem, modern Next.js applications, databases, background processing, deployment and third-party integrations.
+
+A significant part of my product experience is in **PropTech**: property inventory, real-estate CRM, portal syndication, lead workflows, property management and internal business systems.
+
+- Building backend services, APIs and full-stack products.
+- Turning operational workflows into practical software.
+- Integrating external platforms, CRMs and communication services.
+- Working with property, inventory, HR and booking systems.
+- Continuously improving architecture, usability and delivery.
+
+## Software I've Built
+
+The projects below are drawn from my GitHub repositories. Some are separate frontend/backend repositories belonging to the same product.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 WOW Properties Platform
+
+A real-estate platform for buyers, renters and investors, with a public property discovery experience and a Django API.
+
+- Property listings for ready and off-plan properties
+- Search, filters and natural-language property discovery
+- Property details, enquiries and lead capture
+- User accounts, favourites and search alerts
+- Agent, developer and community data
+- Optional AI-assisted listing explanations
+- Portal and external service integrations
+
+**Stack:** Django, Django REST Framework, PostgreSQL, Celery, Redis, Next.js, React, TypeScript, Tailwind CSS.
+
+Repositories: [Backend](https://github.com/Mohamed-Gouse/new-wow-prop-back) · [Frontend](https://github.com/Mohamed-Gouse/new-wow-prop-front)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 WOW Properties Inventory ERP
+
+A multi-module internal business platform covering real-estate inventory and operations.
+
+- Property listing and client management
+- Portfolio CRM and tenancy contracts
+- Cheques, invoices, payments and operations
+- Lead pipelines and assignment workflows
+- Marketing campaigns and off-plan tools
+- KPI dashboards and market intelligence
+- Reports, exports and portal-related integrations
+
+**Stack:** Python, Django, PostgreSQL/SQLite, Django HTMX, Channels, Celery, Redis, Tailwind CSS, Alpine.js, JavaScript.
+
+Repository: [wow-inventory](https://github.com/Mohamed-Gouse/wow-inventory)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👥 WOW HRMS
+
+A multi-tenant Human Resources Management System for employee and organisation workflows.
+
+- Employee profiles and document management
+- Attendance and leave management
+- Payroll and commissions
+- Recruitment, candidates and interviews
+- Hiring-stage automation and reminders
+- Notifications, email templates and reports
+- Organisation-level settings and roles
+
+**Stack:** Python, Django, MySQL, Tailwind CSS, HTMX, JavaScript.
+
+Repository: [wow-hrms](https://github.com/Mohamed-Gouse/wow-hrms)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Booking System
+
+A booking platform with separate user, hotel and administrative areas.
+
+- User and authentication workflows
+- Hotel-side management
+- Super-admin functionality
+- Chat and interaction modules
+- Background task processing
+- Real-time communication components
+
+**Stack:** Python, Django, Django REST Framework, Django Channels, Celery, Redis, PostgreSQL, React (frontend repository).
+
+Repositories: [Hotel Booking System](https://github.com/Mohamed-Gouse/Hotel-Booking-System) · [Backend](https://github.com/Mohamed-Gouse/hbs-backend) · [Additional HBS app](https://github.com/Mohamed-Gouse/hbs)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 WOW Real Estate Landing Page Builder
+
+A platform for creating branded real-estate project landing pages.
+
+- Off-plan project search through REM API
+- Visual landing-page editing
+- Customisable project content and galleries
+- Lead capture and registration forms
+- Brochure and floor-plan email delivery
+- Staff dashboard for pages, leads and users
+
+**Stack:** Python, Django, REST/API integrations, JavaScript, HTML, CSS.
+
+Repository: [wow-page-builder](https://github.com/Mohamed-Gouse/wow-page-builder)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 WOW Motors
+
+A vehicle inventory application with a Django backend and React frontend.
+
+- Vehicle inventory data management
+- Backend API and serialisation
+- React-based application interface
+
+**Stack:** Python, Django, Django REST Framework, React, Vite, Tailwind CSS.
+
+Repositories: [Backend](https://github.com/Mohamed-Gouse/wow-motors-backend) · [Frontend](https://github.com/Mohamed-Gouse/wow-motors-frontend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Inventory Processor & Unit Finder
+
+Tools for processing structured inventory and property/unit data.
+
+- Excel-based data processing
+- Spreadsheet formatting and transformation
+- Property/unit data workflows
+- Data handling and utility scripts
+
+**Stack:** Python, Django, Pandas, NumPy, OpenPyXL, Excel processing libraries.
+
+Repositories: [Inventory Processor](https://github.com/Mohamed-Gouse/inventory-processor) · [Unit Finder](https://github.com/Mohamed-Gouse/unit_finder)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Real-time Chat Applications
+
+Chat application experiments and implementations with separate frontend/backend repositories.
+
+- User-facing chat interface
+- Backend communication services
+- WebSocket-based real-time messaging
+- Authentication and application state
+
+**Stack:** Django, Django Channels, Redis, React, Redux Toolkit, Material UI, Axios.
+
+Repositories: [Backend](https://github.com/Mohamed-Gouse/chat_app_back) · [Frontend](https://github.com/Mohamed-Gouse/chat_app_front) · [Chatting Application](https://github.com/Mohamed-Gouse/Chatting-Application)
+
+</td>
+</tr>
+</table>
+
+### Other repositories
+
+I also maintain smaller applications, prototypes and experiments:
+
+- [JB Computers](https://github.com/Mohamed-Gouse/jbcomputers) — e-commerce project.
+- [Home Crown Real Estate](https://github.com/Mohamed-Gouse/home-crown-real-estate) — React-based property and off-plan website.
+- [Northern Crest Marketing](https://github.com/Mohamed-Gouse/Northern-Crest-marketing) — marketing agency website.
+- [Anomaly Detection](https://github.com/Mohamed-Gouse/Anolagy-detection) — data-stream anomaly detection experiments using ARIMA and Isolation Forest.
+- [Online Admission System](https://github.com/Mohamed-Gouse/Online-admission-system) — admission-system project.
+- [Authentication System](https://github.com/Mohamed-Gouse/Authentication-system) — authentication project.
+- [BMW Clone](https://github.com/Mohamed-Gouse/bmw-clone) · [Teachics Clone](https://github.com/Mohamed-Gouse/Teachics-clone) · [Musixmatch](https://github.com/Mohamed-Gouse/Musixmatch) — frontend and learning projects.
+- [Emaar](https://github.com/Mohamed-Gouse/Emaar) · [Studio Pashmita](https://github.com/Mohamed-Gouse/studio-pashmita) · [Pashmita](https://github.com/Mohamed-Gouse/Pashmita) — additional website/content projects.
+
+---
+
+## Technology Stack
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gouse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Gouse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Gouse&theme=flat&no-frame=true&no-bg=false" height="150" alt="trophy graph"  />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c&theme=dark" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express&theme=dark" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,bootstrap,tailwind&theme=dark" />
+
+### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq&theme=dark" />
+
+### Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,linux,git,github,vscode,figma&theme=dark" />
+
 </div>
 
-###
+## Integrations & Platforms
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2c/41/f9/2c41f9b5411045e59ef08bbe5045773e.gif"  />
+**Real Estate & CRM:** Property Finder, Bayut XML feeds, Dubizzle, REM/Remapp, Zoho CRM, Zoho Bigin, Zoho Sheets.
 
-###
+**Communication & Marketing:** WhatsApp Business API, Gallabox, WATI, Twilio, Brevo.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
+**Other APIs & Services:** Stripe, Google Maps / Places, Nutritionix, Apify, OpenAI API.
 
-###
+## Engineering Toolkit
+
+- **Backend architecture:** REST APIs, authentication, permissions, background jobs and WebSockets.
+- **Data:** relational databases, document databases, data modelling, Excel automation and XML processing.
+- **Frontend:** component-based applications, state management, responsive interfaces and form validation.
+- **Delivery:** Linux servers, Nginx reverse proxy, cloud hosting, environment configuration and SSL.
+
+## GitHub Activity
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamedgouse/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:mohamedgouse.pk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/mohamedgouse_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
+
+<a href="https://github.com/Mohamed-Gouse">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Gouse&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0B1724&title_color=22D3EE&text_color=D6E3EA&icon_color=2DD4BF" />
+</a>
+<a href="https://github.com/Mohamed-Gouse">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Gouse&layout=compact&langs_count=8&hide_border=true&bg_color=0B1724&title_color=22D3EE&text_color=D6E3EA" />
+</a>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Mohamed-Gouse&theme=transparent&hide_border=true&background=0B1724&ring=22D3EE&fire=2DD4BF&currStreakLabel=22D3EE&sideLabels=D6E3EA&dates=94A3B8" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Gouse&bg_color=0B1724&color=D6E3EA&line=2DD4BF&point=22D3EE&area=true&hide_border=true" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/Mohamed-Gouse/Mohamed-Gouse/output/snake.svg" alt="Snake animation" /> -->
+## Let's Connect
 
-###
+Interested in software engineering, backend systems, full-stack development, PropTech and building useful products.
+
+<a href="https://www.linkedin.com/in/mohamedgouse/"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Gouse-0A66C2?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:mohamedgouse.pk@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Mohamed-Gouse"><img src="https://img.shields.io/badge/GitHub-Mohamed--Gouse-181717?style=flat-square&logo=github" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071D2B,45:0F766E,100:22D3EE&height=115&section=footer" />
+
+</div>
